@@ -21,7 +21,7 @@ Para instalar a aplicação, utilize os passos abaixo:
 
 ```
 # clone o projeto
-$git clone git@github.com:thalesmengue/liberfly-api.git
+$ git clone git@github.com:thalesmengue/liberfly-api.git
 
 # entre na pasta do projeto
 
