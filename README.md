@@ -21,11 +21,12 @@ Para instalar a aplicação, utilize os passos abaixo:
 
 ```
 # clone o projeto
-$git clone
+$git clone git@github.com:thalesmengue/liberfly-api.git
 
 # entre na pasta do projeto
 
 # copie o arquivo .env.example para .env
+$ cp .env.example .env
 
 # instale as dependências
 $ composer install
